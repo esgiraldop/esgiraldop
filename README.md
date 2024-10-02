@@ -1,4 +1,4 @@
-## Hi everybody
+<h1 align="center"><b>Hi , Everybody </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 Welcome to my github! I'm Erick Giraldo, an engineer with a passion for creating impactful projects. I love to get lost in code and data to then come up with meaningful solutions that can change someone's life. From building dynamic web apps to solving complex problems with data, my journey is driven by curiosity and the joy of continuous learning. With a strong command of of Python, JavaScript/Typescript, and SQL and wide knowledge of React, NodeJs and NestJS, I love working on projects that challenge my skills and contribute to the tech community.
 
