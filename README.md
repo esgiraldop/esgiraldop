@@ -2,8 +2,6 @@
 
 I'm Erick Giraldo, an engineer with a passion for creating impactful projects. I love to get lost in code and data to then come up with meaningful solutions that can change someone's life. From building dynamic web apps to solving complex problems with data, my journey is driven by curiosity and the joy of continuous learning. With a strong command of of Python, JavaScript/Typescript, and SQL and wide knowledge of React, NodeJs and NestJS, I love working on projects that challenge my skills and contribute to the tech community.
 
-I've applied my skills across a range of tasks including full-stack web development, data scraping (from web, PDF, and text sources), data cleaning, modeling, and analysis. My experience in both my academic and professional career has fostered a strong analytical mindset, enabling me to draw conclusions based on rigorous data-driven analysis. I excel in both collaborative environments and independent work, consistently delivering results that are grounded in facts and data. My passion for continuous learning drives me to stay updated with the latest technologies and best practices in programming and data processing, ensuring that I can adapt to and excel in any challenge I undertake.
-
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmpldHZnMTVncmZldGpxbWZuY2ltZ3JtZWY2ZTA4eWFvcmE4dmFmMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp">
 </a>
