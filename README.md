@@ -6,7 +6,7 @@
 
 <br>
 <!-- Text Section -->
-<div align="center">
+<div align="left">
   <ul style="text-align: left;">
     <li>🔭 I’m currently working as an aviation consultant and software developer</li>
     <li>🌱 I’m currently learning React, Nest.js, and MongoDB</li>
