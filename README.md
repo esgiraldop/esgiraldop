@@ -5,8 +5,8 @@
 </div>
 
 <!-- Text Section -->
-<div style="text-align: center; padding: 20px;">
-  <ul style="padding-left: 40px; text-align: left;">
+<div style="padding: 20px; text-align: left; display: inline-block; width: 100%;">
+  <ul style="list-style: none; padding-left: 20px;">
     <li>🔭 I’m currently working as an aviation consultant and software developer</li>
     <li>🌱 I’m currently learning React, Nest.js, and MongoDB</li>
     <li>👯 I’m looking to collaborate on web development, preferably in backend projects</li>
@@ -17,9 +17,8 @@
 
 <!-- Image Section -->
 <div style="text-align: center; padding: 20px;">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmpldHZnMTVncmZldGpxbWZuY2ltZ3JtZWY2ZTA4eWFvcmE4dmFmMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" alt="GIF" style="height: 300px; width: 400px; padding: 10px;">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmpldHZnMTVncmZldGpxbWZuY2ltZ3JtZWY2ZTA4eWFvcmE4dmFmMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" alt="GIF" style="height: 300px; width: 400px; display: block; margin: 0 auto;">
 </div>
-
 
 <!--- stats & Trophy (start) -->
 <p align="center">
