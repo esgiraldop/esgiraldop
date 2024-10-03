@@ -7,7 +7,7 @@
 <div style="display: flex; align-items: center; justify-content: space-between; gap: 10px; padding: 30px">
 
   <!-- Text Section -->
-  <div style="flex: 1; max-width: 60%">
+  <div style="flex: 1; max-width: 50%">
     <ul>
       <li>🔭 I’m currently working as an aviation consultant and software developer</li>
       <li>🌱 I’m currently learning React, Nest.js, and MongoDB</li>
