@@ -18,7 +18,7 @@
   </div>
 
   <!-- Image Section -->
-  <div style="flex: 1; text-align: center;">
+  <div style="flex: 1; text-align: center; align: center">
     <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmpldHZnMTVncmZldGpxbWZuY2ltZ3JtZWY2ZTA4eWFvcmE4dmFmMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" alt="GIF" style="height: 300px; width: 400px;">
   </div>
 
