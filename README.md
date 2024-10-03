@@ -5,7 +5,7 @@
 </div>
 
 <!-- Text Section -->
-<div style="text-align: center">
+<div style="text-align: center; padding: 10px">
     <ul>
       <li>🔭 I’m currently working as an aviation consultant and software developer</li>
       <li>🌱 I’m currently learning React, Nest.js, and MongoDB</li>
