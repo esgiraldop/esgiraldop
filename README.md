@@ -4,9 +4,10 @@
     I'm Erick Giraldo, an engineer and full stack developer from Medellin Colombia 🇨🇴 with a passion for creating impactful projects. I love to get lost in code and data to then come up with meaningful solutions that can change someone's life. From building dynamic web apps to solving complex problems with data, my journey is driven by curiosity and the joy of continuous learning. With a strong command of Python, Pandas, JavaScript/Typescript, and SQL and a wide knowledge of React, NodeJs and NestJS, I love working on projects that challenge my skills and contribute to the tech community.
 </div>
 
+<br>
 <!-- Text Section -->
-<div style="padding: 20px; text-align: left; display: inline-block; width: 100%;">
-  <ul style="list-style: none; padding-left: 20px;">
+<div align="center">
+  <ul style="text-align: left;">
     <li>🔭 I’m currently working as an aviation consultant and software developer</li>
     <li>🌱 I’m currently learning React, Nest.js, and MongoDB</li>
     <li>👯 I’m looking to collaborate on web development, preferably in backend projects</li>
@@ -15,10 +16,12 @@
   </ul>
 </div>
 
+<br>
 <!-- Image Section -->
-<div style="text-align: center; padding: 20px;">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmpldHZnMTVncmZldGpxbWZuY2ltZ3JtZWY2ZTA4eWFvcmE4dmFmMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" alt="GIF" style="height: 300px; width: 400px; display: block; margin: 0 auto;">
+<div align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmpldHZnMTVncmZldGpxbWZuY2ltZ3JtZWY2ZTA4eWFvcmE4dmFmMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" alt="GIF" height="300" width="400" />
 </div>
+
 
 <!--- stats & Trophy (start) -->
 <p align="center">
