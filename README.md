@@ -8,8 +8,8 @@
 <!-- Text Section -->
 <div align="left">
   <ul style="text-align: left;">
-    <li>🔭 I’m currently working as an aviation consultant and software developer</li>
-    <li>🌱 I’m currently learning React, Nest.js, and MongoDB</li>
+    <li>🔭 I’m currently working as a Jr. software developer at Agile Engine</li>
+    <li>🌱 I’m currently learning React, Nest.js, Docker and fast-api</li>
     <li>👯 I’m looking to collaborate on web development, preferably in backend projects</li>
     <li>💬 Ask me about JavaScript, React, and Nest.js</li>
     <li>📫 How to reach me: erickgiraldo94@gmail.com</li>
@@ -55,7 +55,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,css,html,js,ts,mysql,mongodb,postgres,sqlite,express,nestjs,nodejs,npm,figma,linux,md,postman,py,scikitlearn,matlab,react,materialui,pycharm,go,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,github,css,html,js,ts,mysql,mongodb,postgres,sqlite,express,nestjs,nodejs,npm,figma,linux,md,postman,py,scikitlearn,matlab,react,materialui,pycharm,go,vscode,docker&perline=14" />
   </a>
 </p>
 
